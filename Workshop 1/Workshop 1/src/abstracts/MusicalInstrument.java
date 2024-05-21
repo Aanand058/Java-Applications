@@ -1,10 +1,3 @@
-// Workshop: 1 
-// Name: Aananad Aman 
-// Id: 166125211
-
-//Learning about Comparable 
-//https://docs.oracle.com/javase/8/docs/api/java/lang/Comparable.html
-//https://www.youtube.com/watch?v=g0_pQCxfgKI&t=402s&ab_channel=NathanS
 
 
 package abstracts;
